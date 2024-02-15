@@ -24,6 +24,7 @@ body {
   height: 40%;
   justify-content: flex-end;
   align-items: flex-end;
+  border-radius: 10px;
 }
 .galleryImage{
   width: 250px;
