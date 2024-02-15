@@ -19,11 +19,10 @@ body {
 }
 .card{
   background: #5486ab;
+  color:black;
   border: solid black 5px;
   width: 33%;
-  height: 40%;
-  justify-content: flex-end;
-  align-items: flex-end;
+  height: 45%;
   border-radius: 10px;
 }
 .galleryImage{
